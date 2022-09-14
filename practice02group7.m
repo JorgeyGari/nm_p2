@@ -1,3 +1,6 @@
+% CODE BY: Camino Rodríguez Pérez-Carral, Rodrigo de Lera de las Heras and Jorge Lázaro Ruiz
+% USAGE OF THIS CODE IS STRICTLY FOR REFERENCE ONLY, DO NOT COPY
+
 % Rodrigo de Lera de las Heras 100452323
 % Jorge Lázaro Ruiz 100452172
 % Camino Rodríguez Pérez-Carral 100445091
